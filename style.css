@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 :root{
     --branco:white;
-    --cor-de-fundo:#121ec8;
+    --cor-de-fundo:#1d2bf0;
     --fundo-senha:#04fd8d;
-    --findo-textp:#121ec8;
+    --fundo-texto:#121ec8;
     --borda: #0dfcfc;
     --fonte-principal: 'libertinus serif';
 }
